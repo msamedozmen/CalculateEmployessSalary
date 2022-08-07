@@ -1,0 +1,2 @@
+# CalculateEmployessSalary
+An employee should have the calculateSalary method, which calculates how much he/she earns according to the number of given days he/she worked. The method sets the salary with the calculation public int calculateSalary(int numberOfdays): A doctor works 7 hours a day.  A Fellow earns 90TL per hour, a Resident earns 70TL per hour and an Intern earns 35TL per hour. A Nurse works 8 hours a day. A Nurse earns 35TL per hour if he/she started after 2018, otherwise he/she earns 40TL per hour.  A staff works 9 hours a day and earns 30TL per hour.
